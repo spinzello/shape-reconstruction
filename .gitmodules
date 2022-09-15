@@ -1,0 +1,6 @@
+[submodule "imports/tsdf-fusion-python"]
+	path = imports/tsdf-fusion-python
+	url = https://github.com/andyzeng/tsdf-fusion-python.git
+[submodule "imports/apriltag"]
+	path = imports/apriltag
+	url = https://github.com/AprilRobotics/apriltag.git
