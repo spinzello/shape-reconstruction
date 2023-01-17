@@ -1,6 +1,5 @@
 # MaST: Marker-less Shape Tracking
 ![Image](/imgs/tracking.png)
-This repository contains code that was created as part of Sebastian Pinzello's master's thesis.
 
 ### Purpose
 The purpose of this project is to establish a way of tracking a soft robotic arm without the need for a motion-capture system.
